@@ -1,5 +1,6 @@
-import { Header } from '@components/layout';
-import './globals.css';
+
+import { Header } from '@/src/components';
+import '../styles/globals.css';
 
 interface RootLayoutProps {
   children: React.ReactElement;
